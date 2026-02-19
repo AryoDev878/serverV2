@@ -1,0 +1,11 @@
+{
+  "server_url": "http://192.168.100.196:2004",
+  "api_version": "1.0",
+  "features": {
+    "chat": true,
+    "music": true,
+    "ddos": true
+  },
+  "maintenance_mode": false,
+  "announcement": "Server is running normally"
+}
