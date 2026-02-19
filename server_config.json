@@ -1,6 +1,6 @@
 {
-  "server_url": "http://192.168.56.1:2004",
-  "backup_url": "http://backup-server:2004",
+  "server_url": "http://danzxcepe.privatserver.my.id:4182",
+  "backup_url": "http://danzxcepe.privatserver.my.id:4182",
   "version": "1.0.0",
   "maintenance": false,
   "maintenance_message": "Server sedang dalam perawatan"
